@@ -29,10 +29,10 @@ As you can see the HMR is working without reloading the page for React component
 
 ## Getting started
 ```bash
-$ git clone https://github.com/rbartoli/react-boilerplate.git
+$ git clone https://github.com/iamjordanbrophy/react-boilerplate.git
 $ npm i
 $ npm start
-$ Go to localhost:8080
+$ Go to [http://localhost:8080](http://localhost:8080)
 ```
 
 ---
@@ -47,7 +47,7 @@ $ Go to localhost:8080
 
 Here's an example of file  structure for the time/weather component used in GoMetro TV:
 
-![Lorem](readme-assets/TV-weather.png)
+![example picture](src/TV-weather.png)
 ```
 - InfoModule
 - - TimeModule
