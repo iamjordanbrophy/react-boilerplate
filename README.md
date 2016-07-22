@@ -31,9 +31,11 @@ As you can see the HMR is working without reloading the page for React component
 ```bash
 $ git clone https://github.com/iamjordanbrophy/react-boilerplate.git
 $ npm i
+Make some coffee. It may take som time to install all the packages.
 $ npm start
 ```
-$ Go to [http://localhost:8080](http://localhost:8080)
+**Next:**
+Go to [http://localhost:8080](http://localhost:8080)
 
 ---
 
